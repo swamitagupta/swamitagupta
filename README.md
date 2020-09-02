@@ -4,8 +4,9 @@
  
  a sophomore Computer Science student at VIT, Vellore. 
  
- - 🌱 I am currently learning iOS Development using **Swift** and **SwiftUI**.
- - 🌱 I am also enthusiastic about **Machine Learning** and **Deep Learning** using **Python** and **R**.
+ - 🌿 I am currently learning iOS Development using **Swift** and **SwiftUI**.
+ - 🍀 I am also enthusiastic about **Machine Learning** and **Deep Learning** using **Python** and **R**.
+ - 🌱 I am keen about **Front-end development** using **HTML** and **CSS**.
 
 <!--
 **swamitagupta/swamitagupta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

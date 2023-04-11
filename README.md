@@ -4,8 +4,12 @@
  
  a final Computer Science student at VIT, Vellore. 
  
- - 🦋 I am currently learning iOS Development using **Swift** and **SwiftUI**.
- - 🦋 I am also enthusiastic about **Machine Learning** and **Deep Learning** using **Python** and **R**.
+ - 🔭 I’m currently working on Object Detection and Image Classification 
+ - 🌱 I’m currently learning Computer Vision
+ - 👯 I’m looking to collaborate on Machine Learning projects
+ - 💬 Ask me about Artificial Intelligence, Deep Learning and iOS Development
+ - 📫 How to reach me: swamitagupta@gmail.com
+ 
 <br>
 
 [![Github stats](https://github-readme-stats.vercel.app/api?username=swamitagupta&show_icons=true&theme=react)](https://github.com/anuraghazra/github-readme-stats)
